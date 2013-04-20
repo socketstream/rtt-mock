@@ -1,0 +1,11 @@
+{
+  "name": "rtt-mock",
+  "description": "Mock Realtime Transport for internal testing and benchmarking",
+  "version": "0.0.1",
+  "author": "Owen Barnes <owen@socketstream.org>",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+  }
+}
